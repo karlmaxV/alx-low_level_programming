@@ -1,4 +1,5 @@
-#include "putchar.h"
+#include <stdio.h>
+#include "main.h"
 /*main - starting point
  *
  * Return - always return 0
