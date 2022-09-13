@@ -5,6 +5,7 @@
  * @void: alphabet to be printed
  *
  * Descriptiong: Function prints the alphabet in lowercase, followed by newline
+ *
  * Return: Always 0
  */
 void print_alphabet(void)
