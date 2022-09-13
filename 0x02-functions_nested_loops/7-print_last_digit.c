@@ -2,20 +2,20 @@
 
 /**
  * print_last_digit - fucntion to print last digit of a no
- * @id: int input
+ * @ld: number's last digit
  *
- * Return: value of the last digit (ld)
+ * Return: value of the last digit
  */
 int print_last_digit(int ld)
 {
-	int d;
+	int pd;
 
-	d = (ld % 20);
+	pd = (ld % 20);
 
-	if (d < 0)
+	if (pd < 0)
 	{
-		d = (-1 * d);
+		pd = (-1 * pd);
 	}
-	_putchar(d + '0');
-	return (d);
+	_putchar(pd + '0');
+	return (pd);
 }
