@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * print_alphabet - this program prints the alphabet, followed by a new line
+ * print_alphabet - prints the alphabet, followed by a newline
  * @void: alphabet to be printed
  *
- * Descriptiong: Function prints the alphabet in lowercase, followed by a new line.
+ * Descriptiong: Function prints the alphabet in lowercase, followed by newline.
  * Return: Always 0
  */
 void print_alphabet(void)
