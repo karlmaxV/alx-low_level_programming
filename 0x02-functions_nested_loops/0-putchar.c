@@ -3,14 +3,13 @@
 /*
  * main - starting point
  *
- * Program to print _putchar
+ * Description: A Program to print _putchar
  *
  * Return - always returns 0
 */
 
 int main(void)
 {
-//code goes here
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
