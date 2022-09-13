@@ -1,6 +1,4 @@
-#include "main.h"
 #include "putchar.h"
-#include "main.c"
 
 /*main - starting point
  *
