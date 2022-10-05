@@ -5,7 +5,7 @@
 /**
  * create_array - Function to crearte_array
  * @c: char type
- * @size: unsigned char
+ * @size: unsigned int
  * 
  * Returns: a pointer to the array, or NULL if it fails
  *
@@ -13,7 +13,7 @@
 char *create_array(unsigned int size, char c);
 {
 	char *s;
-	int i;
+	unsigned int i;
 
 	if(size == 0){
 		return(NULL);
